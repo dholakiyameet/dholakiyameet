@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react,nodejs,expressjs,mongodb,mern,laravel full-stack**
 
-- 📫 How to reach me **developermeetdholakiya2024@gmail.com**
+- 📫 How to reach me **dholakiya.meet@yahoo.com**
 
 - ⚡ Fun fact **Development is my hobbies**
 
