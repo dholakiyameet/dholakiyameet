@@ -13,8 +13,8 @@
 
 - 🤝 I’m looking for help with **more sales, clients and position them as an expert with their strategically built website**
 
-- 👨‍💻 All of my projects are available at [[https://dholakiyameet.freesite.online/](https://dholakiyameet.freesite.online/)](https://meet-dholakiya.lovestoblog.com/)
-
+- 👨‍💻 All of my projects are available at [[https://dholakiyameet.freesite.online/](https://meet-dholakiya.lovestoblog.com/)]
+  
 - 💬 Ask me about **react,nodejs,expressjs,mongodb,mern,laravel full-stack**
 
 - 📫 How to reach me **dholakiya.meet@yahoo.com**
